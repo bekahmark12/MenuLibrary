@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyMenuLibrary:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyMenuLibrary_jar</output-path>
+    <root id="archive" name="MyMenuLibrary.jar">
+      <element id="module-output" name="MyMenuLibrary" />
+    </root>
+  </artifact>
+</component>
